@@ -232,7 +232,7 @@
          "name":"sol",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":125,
          "x":0,
          "y":0
@@ -244,7 +244,7 @@
          "name":"murs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":125,
          "x":0,
          "y":0
@@ -1052,7 +1052,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }],
          "tilewidth":32
