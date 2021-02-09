@@ -46,7 +46,7 @@
                  "value":"Trocadero"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
                  "value":"GrandPalais"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -82,7 +82,7 @@
                  "value":"PetitPalais"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -116,9 +116,14 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/praxedo.atlassian.net\/wiki\/home"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -134,6 +139,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ci.praxedo.net\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -152,6 +162,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.jeux.fr\/jeu\/defi-de-tennis-de-table"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -182,6 +197,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/praxedo.atlassian.net\/browse\/ETECH"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -200,6 +220,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/praxedo.ilucca.net\/home"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -226,7 +251,7 @@
          "name":"murs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":125,
          "x":0,
          "y":0
@@ -238,7 +263,7 @@
          "name":"meubles",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":125,
          "x":0,
          "y":0
@@ -250,7 +275,7 @@
          "name":"fourniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":125,
          "x":0,
          "y":0
@@ -995,6 +1020,15 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "id":236,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }, 
@@ -1034,7 +1068,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }],
          "tilewidth":32
