@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/pxooffice.json"
+                 "value":"pxooffice.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -94,7 +94,7 @@
                  "value":"PetitPalais"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -130,7 +130,7 @@
                  "value":"https:\/\/praxedo.atlassian.net\/wiki\/home"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -148,7 +148,7 @@
                  "value":"https:\/\/ci.praxedo.net\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -166,7 +166,7 @@
                  "value":"https:\/\/praxedo.atlassian.net\/browse\/ETECH"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -184,7 +184,7 @@
                  "value":"https:\/\/praxedo.ilucca.net\/home"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -220,7 +220,7 @@
                  "value":"..\/Lyon\/lyon.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -232,7 +232,7 @@
          "name":"sol",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -244,7 +244,7 @@
          "name":"murs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
