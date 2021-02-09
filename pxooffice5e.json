@@ -1053,8 +1053,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":783,
-         "source":"inside.json"
+         "image":"inside.png",
+         "imageheight":336,
+         "imagewidth":512,
+         "margin":0,
+         "name":"inside",
+         "spacing":0,
+         "tilecount":160,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
