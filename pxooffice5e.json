@@ -184,7 +184,7 @@
                  "value":"https:\/\/www.jeux.fr\/jeu\/defi-de-tennis-de-table"
                 }, 
                 {
-                 "name":"openWebsitePolicy ",
+                 "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
                 }, 
