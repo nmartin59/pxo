@@ -113,11 +113,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/praxedo.atlassian.net\/wiki\/home"
-                }, 
-                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -135,11 +130,6 @@
          "name":"jenkins",
          "opacity":1,
          "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/ci.praxedo.net\/"
-                }, 
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
@@ -170,11 +160,6 @@
          "name":"Jira",
          "opacity":1,
          "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/praxedo.atlassian.net\/browse\/ETECH"
-                }, 
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
