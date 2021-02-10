@@ -179,11 +179,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.jeux.fr\/jeu\/defi-de-tennis-de-table"
-                }, 
-                {
                  "name":"openWebsitePolicy",
                  "type":"string",
                  "value":"fullscreen"
