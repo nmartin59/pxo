@@ -79,11 +79,6 @@
                  "name":" openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
-                }, 
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/garticphone.com\/en\/?c=2d0cdf470"
                 }],
          "type":"tilelayer",
          "visible":true,
