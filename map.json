@@ -114,7 +114,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/xC6c5gfyvkE"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -126,7 +126,7 @@
          "name":"sols",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -150,7 +150,7 @@
          "name":"meubles2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -162,7 +162,7 @@
          "name":"objets",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -881,7 +881,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -926,7 +926,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -935,7 +935,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
