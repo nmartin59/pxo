@@ -277,7 +277,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/pxo\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1092,7 +1092,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/..\/pxo\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1124,7 +1124,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"..\/..\/pxo\/inside.png",
+         "image":"inside.png",
          "imageheight":336,
          "imagewidth":512,
          "margin":0,
@@ -1137,7 +1137,7 @@
         {
          "columns":21,
          "firstgid":481,
-         "image":"..\/..\/pxo\/preview0.png",
+         "image":"preview0.png",
          "imageheight":704,
          "imagewidth":672,
          "margin":0,
