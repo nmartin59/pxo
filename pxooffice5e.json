@@ -184,11 +184,6 @@
                  "value":"http:\/\/www.zebest-3000.com\/jeux\/jeu-29629.html"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
-                }, 
-                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
