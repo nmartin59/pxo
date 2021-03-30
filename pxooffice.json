@@ -1123,20 +1123,6 @@
          "tilecount":462,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":21,
-         "firstgid":943,
-         "image":"M484SuperCandySetV2.png",
-         "imageheight":1224,
-         "imagewidth":690,
-         "margin":0,
-         "name":"M484SuperCandySetV2",
-         "spacing":0,
-         "tilecount":798,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
