@@ -1104,19 +1104,6 @@
          "tilecount":160,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":2,
-         "firstgid":481,
-         "image":"..\/Users\/nmartin\/Downloads\/LPC Women&#039;s Shirt Pack\/Sleeveless Shirt\/_preview.png",
-         "imageheight":64,
-         "imagewidth":64,
-         "margin":0,
-         "name":"_preview",
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
