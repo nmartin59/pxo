@@ -106,7 +106,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nathan.martin.fr\/"
+                 "value":"https:\/\/nathanmartin.fr\/"
                 }],
          "type":"tilelayer",
          "visible":true,
