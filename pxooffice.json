@@ -1150,7 +1150,7 @@
         {
          "columns":21,
          "firstgid":943,
-         "image":"..\/Users\/nmartin\/Downloads\/M484SuperCandySetV2.png",
+         "image":"M484SuperCandySetV2.png",
          "imageheight":1224,
          "imagewidth":690,
          "margin":0,
@@ -1160,21 +1160,7 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
-        {
-         "columns":45,
-         "firstgid":1741,
-         "image":"..\/Users\/nmartin\/Downloads\/happyeaster3.png",
-         "imageheight":1600,
-         "imagewidth":1440,
-         "margin":0,
-         "name":"happyeaster3",
-         "spacing":0,
-         "tilecount":2250,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#ff00ff"
-        }, 
+        },
         {
          "columns":2,
          "firstgid":3991,
