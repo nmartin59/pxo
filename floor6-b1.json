@@ -1396,6 +1396,16 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":0,
+         "firstgid":3998,
+         "margin":0,
+         "name":"inside",
+         "spacing":0,
+         "tilecount":0,
+         "tileheight":1,
+         "tilewidth":1
         }],
  "tilewidth":32,
  "type":"map",
