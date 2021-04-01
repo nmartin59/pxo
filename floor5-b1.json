@@ -39,12 +39,6 @@
          "id":18,
          "name":"Trocadero",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Trocadero"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":125,
@@ -57,12 +51,6 @@
          "id":19,
          "name":"GrandPalais",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"GrandPalais"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":125,
@@ -75,12 +63,6 @@
          "id":20,
          "name":"PetitPalais",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"PetitPalais"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":125,
@@ -97,7 +79,7 @@
                 {
                  "name":"silent",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -182,14 +164,8 @@
          "id":24,
          "name":"Jira",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":125,
          "x":0,
          "y":0
@@ -1040,7 +1016,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
@@ -1049,7 +1025,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
