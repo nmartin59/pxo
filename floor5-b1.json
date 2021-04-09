@@ -633,7 +633,7 @@
                  "value":"champions.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":125,
          "x":0,
          "y":0
@@ -645,7 +645,7 @@
          "name":"easter painting",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":125,
          "x":0,
          "y":0
