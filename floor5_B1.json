@@ -433,7 +433,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"floor6-b1.json"
+                 "value":"final2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
