@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"."
+         "format":"json"
         }
     },
  "height":37,
@@ -55,7 +54,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/forms.gle\/r64gTEvjg1ixG6Hj9"
+                 "value":"https:\/\/forms.gle\/a118pgJ6jjfV43hE8"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -415,7 +414,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"floor6_B1.json"
+                 "value":"floor6_B3.json"
                 }],
          "type":"tilelayer",
          "visible":true,
