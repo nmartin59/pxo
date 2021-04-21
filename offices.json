@@ -203,7 +203,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSd51YcPydeKT_WZWfKRBXVSOsL8lh2UK8PMqcpdc_5rGlbptw\/viewform?usp=sf_link"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
