@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/elgoog.im\/pacman\/"
+                 "value":"https:\/\/elgoog.im\/"
                 }],
          "type":"tilelayer",
          "visible":true,
