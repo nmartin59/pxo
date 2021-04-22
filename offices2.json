@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/elgoog.im\/"
+                 "value":"https:\/\/elgoog.im\/t-rex\/"
                 }],
          "type":"tilelayer",
          "visible":true,
