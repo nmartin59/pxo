@@ -199,17 +199,6 @@
          "id":25,
          "name":"figgo",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSd51YcPydeKT_WZWfKRBXVSOsL8lh2UK8PMqcpdc_5rGlbptw\/viewform?usp=sf_link"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":125,
