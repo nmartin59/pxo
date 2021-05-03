@@ -207,23 +207,6 @@
          "objects":[
                 {
                  "height":19,
-                 "id":1,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "text":"Team 3",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":108,
-                 "x":612,
-                 "y":1025.5
-                }, 
-                {
-                 "height":19,
                  "id":2,
                  "name":"",
                  "rotation":0,
