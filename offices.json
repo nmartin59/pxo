@@ -21,6 +21,12 @@
          "id":41,
          "name":"boite \u00e0 id\u00e9e url",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfQiS4r-QxvSs_feM0bUDKV2_vWY-_e8CygUvcqRZkaN8y47w\/viewform?usp=sf_link"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":125,
