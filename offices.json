@@ -93,12 +93,6 @@
          "id":40,
          "name":"photomaton",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/poki.com\/en\/g\/basket-swooshes"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":125,
